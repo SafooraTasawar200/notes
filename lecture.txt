@@ -1,1 +1,26 @@
-Yeh meri lecture ki file hai
+1. Repository name:
+Aapki repo ka unique naam hota hai (e.g. notes)
+
+🔹 2. Description (optional):
+Short summary batata hai ke repo kis cheez ke liye hai.
+
+🔹 3. Public / Private:
+Public: Sab dekh sakte hain,
+Private: Sirf aap (aur aapke invited collaborators) dekh sakte hain.
+
+🔹 4. Initialize this repository with:
+Pehli baar kuch basic files repo mein daalne ka option:
+
+Add a README file:
+
+Ek README.md file add karta hai jo repo ka intro ya docs hoti hai.
+
+Add .gitignore:
+
+Aisi files ignore karta hai jo Git mein track nahi karni chahiye (e.g. system files, node_modules, etc.)
+
+Choose a license:
+
+Batata hai ke doosre log aapka code kaise use kar sakte hain (e.g. MIT = free use).
+
+
